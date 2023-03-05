@@ -1,0 +1,12 @@
+E:\projects\labs\mdk01.04\LabWork23\LabWorkLibrary\bin\Debug\net7.0\LabWorkLibrary.deps.json
+E:\projects\labs\mdk01.04\LabWork23\LabWorkLibrary\bin\Debug\net7.0\LabWorkLibrary.dll
+E:\projects\labs\mdk01.04\LabWork23\LabWorkLibrary\bin\Debug\net7.0\LabWorkLibrary.pdb
+E:\projects\labs\mdk01.04\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.csproj.AssemblyReference.cache
+E:\projects\labs\mdk01.04\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\labs\mdk01.04\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.AssemblyInfoInputs.cache
+E:\projects\labs\mdk01.04\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.AssemblyInfo.cs
+E:\projects\labs\mdk01.04\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.csproj.CoreCompileInputs.cache
+E:\projects\labs\mdk01.04\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.dll
+E:\projects\labs\mdk01.04\LabWork23\LabWorkLibrary\obj\Debug\net7.0\refint\LabWorkLibrary.dll
+E:\projects\labs\mdk01.04\LabWork23\LabWorkLibrary\obj\Debug\net7.0\LabWorkLibrary.pdb
+E:\projects\labs\mdk01.04\LabWork23\LabWorkLibrary\obj\Debug\net7.0\ref\LabWorkLibrary.dll
